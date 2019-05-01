@@ -14,7 +14,7 @@ AIUnion 机器之心 3天前
 
  
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/vI9nYe94fsExCMoiaZXxPKDDzQOWlsjy5xFF08qGKBAq4WnlHprfhG0GSVc9E7ayH0InWOXia2ibBjT7NyAiauLXGw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./images/基础知识图谱.png)
 
  
 
@@ -170,7 +170,7 @@ https://zhuanlan.zhihu.com/p/56644669
 
  
 
-![img](https://mmbiz.qpic.cn/mmbiz_png/vI9nYe94fsExCMoiaZXxPKDDzQOWlsjy5rAhOCZqqD48UrkqOPQC8AjO0VeibeTzppC8HSECDZBxCMfrEj1C6qicQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![img](./images/数据分析&挖掘图谱.png)
 
  
 
@@ -202,7 +202,7 @@ https://blog.csdn.net/datawhale/article/details/80847662
 
 **机器学习**
 
- 
+ ![img](./images/机器学习图谱.png)
 
 公开课
 
@@ -326,7 +326,7 @@ https://redstonewill.com/category/ai-notes/lin-ml-techniques/
 
 周志华的《机器学习》被大家亲切地称为“西瓜书”。这本书非常经典，讲述了机器学习核心数学理论和算法，适合有作为学校的教材或者中阶读者自学使用，入门时学习这本书籍难度稍微偏高了一些。
 
- 
+ ![img](./images/机器学习书籍01.jpg)
 
 配合《机器学习实战》一起学习，效果更好！
 
@@ -355,6 +355,8 @@ https://zhuanlan.zhihu.com/c_1013850291887845376
 《统计学习方法》
 
 李航的这本《统计学习方法》堪称经典，包含更加完备和专业的机器学习理论知识，作为夯实理论非常不错。
+
+![img](./images/统计学01.jpg)
 
 **讲课 PPT：**
 
@@ -392,7 +394,7 @@ https://github.com/fengdu78/lihang-code/tree/master/code
 
 这本书分为两大部分，第一部分介绍机器学习基础算法，每章都配备 Scikit-Learn 实操项目；第二部分介绍神经网络与深度学习，每章配备 TensorFlow 实操项目。如果只是机器学习，可先看第一部分的内容。
 
- 
+ ![img](./images/机器学习02.jpg)
 
 全书代码：
 
@@ -442,7 +444,7 @@ http://sklearn.apachecn.org/#/
 
 **深度学习**
 
- 
+ ![img](./images/深度学习图谱.jpg)
 
  
 
@@ -556,9 +558,9 @@ Datawhale整理了该门课程的详细介绍及参考资料:
 
  
 
-书籍
+书籍	《深度学习》
 
-《深度学习》
+![img](./images/深度学习书籍01.jpg)
 
 完成以上学习后，想要更加系统的建立深度学习的知识体系，阅读《深度学习》准没错。该书从浅入深介绍了基础数学知识、机器学习经验以及现阶段深度学习的理论和发展，它能帮助人工智能技术爱好者和从业人员在三位专家学者的思维带领下全方位了解深度学习。
 
@@ -638,7 +640,7 @@ https://pytorch.org/docs/stable/index.html
 
 **强化学习**
 
- 
+ ![img](./images/强化学习图谱.jpg)
 
  
 
@@ -712,11 +714,7 @@ https://blog.csdn.net/cindy_1102/article/details/87905272
 
 **前沿Paper**
 
- 
-
- 
-
-![img](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
+ ![img](./images/前沿论文图谱.jpg)
 
  
 
@@ -814,7 +812,7 @@ Deep Learning Object Detection
 
 本资源对目标检测近几年的发展和相关论文做出一份系统介绍，总结一份超全的文献 paper 列表。
 
- 
+ ![img](./images/前沿论文列表图.jpg)
 
 GitHub 项目地址：
 
@@ -880,9 +878,9 @@ JMLR：http://www.jmlr.org/
 
 **理论应用**
 
- 
+ ![img](./images/理论应用图谱.jpg)
 
- 
+
 
 自然语言处理
 
